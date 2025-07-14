@@ -1,6 +1,6 @@
 # 🧠 Curso de Java desde Cero
 
-Este repositorio contiene los ejercicios y prácticas que realizo mientras avanzo en el curso de Java en Udemy.
+Este repositorio contiene los ejercicios y prácticas que realizo mientras avanzo en el curso de Java en Udemy [https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/].
 
 ## 🎓 Objetivo
 
