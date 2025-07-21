@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74c78c8c-5df1-49c3-872e-c9020a2cd038" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../04_EntradaDeDatosPorConsolaEnJava/ManejoConsola/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_EntradaDeDatosPorConsolaEnJava/ManejoConsola/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_EntradaDeDatosPorConsolaEnJava/ManejoConsola/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_EntradaDeDatosPorConsolaEnJava/ManejoConsola/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_EntradaDeDatosPorConsolaEnJava/ManejoConsola/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_EntradaDeDatosPorConsolaEnJava/ManejoConsola/ManejoConsola.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_EntradaDeDatosPorConsolaEnJava/ManejoConsola/src/FormateoCadenas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_EntradaDeDatosPorConsolaEnJava/ManejoConsola/src/GeneradorIDUnico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_EntradaDeDatosPorConsolaEnJava/ManejoConsola/src/LeerTiposDatos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_EntradaDeDatosPorConsolaEnJava/ManejoConsola/src/ManejoConsola.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_EntradaDeDatosPorConsolaEnJava/ManejoConsola/src/NumerosAleatorios.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_EntradaDeDatosPorConsolaEnJava/ManejoConsola/src/RecetasCocina.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_EntradaDeDatosPorConsolaEnJava/ManejoConsola/src/SistemaEmpleados.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Operadores/Operadores/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Operadores/Operadores/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Operadores/Operadores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Operadores/Operadores/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Operadores/Operadores/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Operadores/Operadores/Operadores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Operadores/Operadores/src/CalculoAreaPerimetro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Operadores/Operadores/src/OperadorNot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Operadores/Operadores/src/OperadorOr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Operadores/Operadores/src/OperadoresAritmeticos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Operadores/Operadores/src/OperadoresAsignacion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Operadores/Operadores/src/OperadoresComparacion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Operadores/Operadores/src/OperadoresUnarios.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Operadores/Operadores/src/OperdorAnd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Operadores/Operadores/src/PrecedenciaOperadores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Operadores/Operadores/src/RangoVariable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Operadores/Operadores/src/SistemaAutenticacion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Operadores/Operadores/src/SistemaDescunetoVIP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Operadores/Operadores/src/SistemaPrestamoLibros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Operadores/Operadores/src/TicketVenta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Operadores/Operadores/src/TicketVentaDescuento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Operadores/Operadores/src/ValorDentroRango.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ded2792"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ded2792/CursoJava.git",
+    "accountId": "72ee44dd-3a73-49f8-8e15-4bad5a0ca1e6"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="3095BWY0Ll09WHPWzjSr2Pd7frU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Cursos/Java/06_SentenciasDeDecision",
+    "settings.editor.selected.configurable": "inlay.hints"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74c78c8c-5df1-49c3-872e-c9020a2cd038" name="Changes" comment="" />
+      <created>1750212564604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750212564604</updated>
+    </task>
+    <servers />
+  </component>
+</project>
