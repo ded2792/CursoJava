@@ -18,8 +18,3 @@ Aprender programación en Java desde lo más básico hasta proyectos intermedios
 1. Cloná el repositorio
 2. Abrilo con IntelliJ o tu IDE favorito
 3. Ejecutá desde la clase `main` de cada lección
-
-## ✍️ Autor
-
-**Diego Delgado**  
-Estudiante de Licenciatura en Sistemas – Buenos Aires, Argentina 
