@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6cfcc55-0ce2-484c-acd7-750bf83e4dfb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SentencaElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValorPositivo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="b6cfcc55-0ce2-484c-acd7-750bf83e4dfb" name="Changes" comment="Sentencias if-else-if">
+      <change afterPath="$PROJECT_DIR$/src/SistemaTiendaEnLinea.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +35,9 @@
     &quot;accountId&quot;: &quot;72ee44dd-3a73-49f8-8e15-4bad5a0ca1e6&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -50,7 +51,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.SentencaElseIf.executor": "Debug",
+    "Application.SentencaElseIf.executor": "Run",
+    "Application.SistemaTiendaEnLinea.executor": "Run",
+    "Application.ValorPositivo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -58,9 +61,16 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ValorPositivo">
+  <component name="RunManager" selected="Application.SistemaTiendaEnLinea">
     <configuration name="SentencaElseIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SentencaElseIf" />
+      <module name="06_SententciasdeDecision" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SistemaTiendaEnLinea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SistemaTiendaEnLinea" />
       <module name="06_SententciasdeDecision" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SistemaTiendaEnLinea" />
         <item itemvalue="Application.ValorPositivo" />
         <item itemvalue="Application.SentencaElseIf" />
       </list>
@@ -88,12 +99,23 @@
       <option name="presentableId" value="Default" />
       <updated>1750212564604</updated>
     </task>
+    <task id="LOCAL-00001" summary="Sentencias if-else-if">
+      <option name="closed" value="true" />
+      <created>1753237481183</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753237481183</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/../../.." />
     </ignored-roots>
+    <MESSAGE value="Sentencias if-else-if" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sentencias if-else-if" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
