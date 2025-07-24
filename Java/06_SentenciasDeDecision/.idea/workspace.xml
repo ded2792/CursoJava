@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6cfcc55-0ce2-484c-acd7-750bf83e4dfb" name="Changes" comment="Sentencias if-else-if">
-      <change afterPath="$PROJECT_DIR$/src/SistemaTiendaEnLinea.java" afterDir="false" />
+    <list default="true" id="b6cfcc55-0ce2-484c-acd7-750bf83e4dfb" name="Changes" comment="Sistema tienda con descuento">
+      <change afterPath="$PROJECT_DIR$/src/SistemaBancario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,18 +49,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.SentencaElseIf.executor": "Run",
-    "Application.SistemaTiendaEnLinea.executor": "Run",
-    "Application.ValorPositivo.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Cursos/Java/06_SentenciasDeDecision",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.SentencaElseIf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SistemaTiendaEnLinea.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValorPositivo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Cursos/Java/06_SentenciasDeDecision&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.SistemaTiendaEnLinea">
     <configuration name="SentencaElseIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SentencaElseIf" />
@@ -107,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753237481183</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Sistema tienda con descuento">
+      <option name="closed" value="true" />
+      <created>1753325700993</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753325700993</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -115,7 +123,8 @@
       <path value="$PROJECT_DIR$/../../.." />
     </ignored-roots>
     <MESSAGE value="Sentencias if-else-if" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sentencias if-else-if" />
+    <MESSAGE value="Sistema tienda con descuento" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sistema tienda con descuento" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
