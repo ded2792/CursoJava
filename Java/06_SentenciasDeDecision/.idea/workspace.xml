@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6cfcc55-0ce2-484c-acd7-750bf83e4dfb" name="Changes" comment="Sistema tienda con descuento">
-      <change afterPath="$PROJECT_DIR$/src/SistemaBancario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b6cfcc55-0ce2-484c-acd7-750bf83e4dfb" name="Changes" comment="SistemaBancario">
+      <change afterPath="$PROJECT_DIR$/src/CasaDeLosEspejos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753325700993</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="SistemaBancario">
+      <option name="closed" value="true" />
+      <created>1753396466150</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753396466150</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -124,7 +131,8 @@
     </ignored-roots>
     <MESSAGE value="Sentencias if-else-if" />
     <MESSAGE value="Sistema tienda con descuento" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sistema tienda con descuento" />
+    <MESSAGE value="SistemaBancario" />
+    <option name="LAST_COMMIT_MESSAGE" value="SistemaBancario" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
