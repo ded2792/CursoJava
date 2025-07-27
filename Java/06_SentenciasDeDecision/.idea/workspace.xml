@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6cfcc55-0ce2-484c-acd7-750bf83e4dfb" name="Changes" comment="OperadorTernario">
-      <change afterPath="$PROJECT_DIR$/src/SaludYFitness.java" afterDir="false" />
+    <list default="true" id="b6cfcc55-0ce2-484c-acd7-750bf83e4dfb" name="Changes" comment="SaludYFitness">
+      <change afterPath="$PROJECT_DIR$/src/SistemaReservaHotel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
     "Application.OperadorTernario.executor": "Run",
     "Application.SaludYFitness.executor": "Run",
     "Application.SentencaElseIf.executor": "Run",
+    "Application.SistemaReservaHotel.executor": "Run",
     "Application.SistemaTiendaEnLinea.executor": "Run",
     "Application.ValorPositivo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -63,7 +64,7 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SaludYFitness">
+  <component name="RunManager" selected="Application.SistemaReservaHotel">
     <configuration name="OperadorTernario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OperadorTernario" />
       <module name="06_SententciasdeDecision" />
@@ -78,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SentencaElseIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SentencaElseIf" />
+    <configuration name="SistemaReservaHotel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SistemaReservaHotel" />
       <module name="06_SententciasdeDecision" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SistemaReservaHotel" />
         <item itemvalue="Application.SaludYFitness" />
         <item itemvalue="Application.OperadorTernario" />
         <item itemvalue="Application.SistemaTiendaEnLinea" />
         <item itemvalue="Application.ValorPositivo" />
-        <item itemvalue="Application.SentencaElseIf" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753452165545</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="SaludYFitness">
+      <option name="closed" value="true" />
+      <created>1753573998831</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1753573998831</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -169,7 +178,8 @@
     <MESSAGE value="SistemaBancario" />
     <MESSAGE value="CasaDeLosEspejos" />
     <MESSAGE value="OperadorTernario" />
-    <option name="LAST_COMMIT_MESSAGE" value="OperadorTernario" />
+    <MESSAGE value="SaludYFitness" />
+    <option name="LAST_COMMIT_MESSAGE" value="SaludYFitness" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
