@@ -11,7 +11,6 @@ public class MayorDosNumeros {
 
         int mayor = num1;
         if (mayor < num2) {
-            mayor = num2;
             System.out.println("El numero " + num2 + " es el mayor de los dos numeros comparados");
         } else {
             System.out.println("El numero " + num1 + " es el mayor de los dos numeros comparados");
