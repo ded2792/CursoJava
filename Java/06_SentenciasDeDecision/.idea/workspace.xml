@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6cfcc55-0ce2-484c-acd7-750bf83e4dfb" name="Changes" comment="Mayor entre dos numeros">
-      <change afterPath="$PROJECT_DIR$/src/EstacionDelAño.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b6cfcc55-0ce2-484c-acd7-750bf83e4dfb" name="Changes" comment="EstacionDelAño" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,22 +46,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.MayorDosNumeros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OperadorTernario.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SaludYFitness.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SentencaElseIf.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SistemaReservaHotel.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SistemaTiendaEnLinea.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ValorPositivo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Cursos/Java/06_SentenciasDeDecision&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EstacionDelAño.executor": "Run",
+    "Application.MayorDosNumeros.executor": "Run",
+    "Application.OperadorTernario.executor": "Run",
+    "Application.SaludYFitness.executor": "Run",
+    "Application.SentencaElseIf.executor": "Run",
+    "Application.SistemaReservaHotel.executor": "Run",
+    "Application.SistemaTiendaEnLinea.executor": "Run",
+    "Application.ValorPositivo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Cursos/Java/06_SentenciasDeDecision",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.EstacionDelAño">
     <configuration name="EstacionDelAño" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EstacionDelAño" />
@@ -191,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753664876375</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="EstacionDelAño">
+      <option name="closed" value="true" />
+      <created>1753747124849</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1753747124849</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -206,7 +212,8 @@
     <MESSAGE value="SaludYFitness" />
     <MESSAGE value="SistemaReservaHotel" />
     <MESSAGE value="Mayor entre dos numeros" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mayor entre dos numeros" />
+    <MESSAGE value="EstacionDelAño" />
+    <option name="LAST_COMMIT_MESSAGE" value="EstacionDelAño" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
