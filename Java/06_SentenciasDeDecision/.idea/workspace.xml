@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6cfcc55-0ce2-484c-acd7-750bf83e4dfb" name="Changes" comment="EstacionDelAño">
-      <change afterPath="$PROJECT_DIR$/src/SentenciaSwitch.java" afterDir="false" />
+    <list default="true" id="b6cfcc55-0ce2-484c-acd7-750bf83e4dfb" name="Changes" comment="SentenciaSwitch">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SentenciaSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SentenciaSwitch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +56,7 @@
     &quot;Application.OperadorTernario.executor&quot;: &quot;Run&quot;,
     &quot;Application.SaludYFitness.executor&quot;: &quot;Run&quot;,
     &quot;Application.SentencaElseIf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SentenciaSwitch.executor&quot;: &quot;Run&quot;,
     &quot;Application.SistemaReservaHotel.executor&quot;: &quot;Run&quot;,
     &quot;Application.SistemaTiendaEnLinea.executor&quot;: &quot;Run&quot;,
     &quot;Application.ValorPositivo.executor&quot;: &quot;Run&quot;,
@@ -208,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753747416024</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="SentenciaSwitch">
+      <option name="closed" value="true" />
+      <created>1753832529301</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1753832529301</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -224,7 +233,8 @@
     <MESSAGE value="SistemaReservaHotel" />
     <MESSAGE value="Mayor entre dos numeros" />
     <MESSAGE value="EstacionDelAño" />
-    <option name="LAST_COMMIT_MESSAGE" value="EstacionDelAño" />
+    <MESSAGE value="SentenciaSwitch" />
+    <option name="LAST_COMMIT_MESSAGE" value="SentenciaSwitch" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
