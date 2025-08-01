@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6cfcc55-0ce2-484c-acd7-750bf83e4dfb" name="Changes" comment="SistemaCalificaciones">
-      <change beforePath="$PROJECT_DIR$/src/SistemaCalificaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SistemaCalificaciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaEnvios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +59,7 @@
     "Application.SentencaElseIf.executor": "Run",
     "Application.SentenciaSwitch.executor": "Run",
     "Application.SistemaCalificaciones.executor": "Run",
+    "Application.SistemaEnvios.executor": "Run",
     "Application.SistemaReservaHotel.executor": "Run",
     "Application.SistemaTiendaEnLinea.executor": "Run",
     "Application.ValorPositivo.executor": "Run",
@@ -68,7 +70,7 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SistemaCalificaciones">
+  <component name="RunManager" selected="Application.SistemaEnvios">
     <configuration name="EstacionDelAño" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EstacionDelAño" />
       <module name="06_SententciasdeDecision" />
@@ -78,13 +80,6 @@
     </configuration>
     <configuration name="EstacionDelAñoSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EstacionDelAñoSwitch" />
-      <module name="06_SententciasdeDecision" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MayorDosNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MayorDosNumeros" />
       <module name="06_SententciasdeDecision" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,13 +99,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SistemaEnvios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SistemaEnvios" />
+      <module name="06_SententciasdeDecision" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SistemaEnvios" />
         <item itemvalue="Application.SistemaCalificaciones" />
         <item itemvalue="Application.EstacionDelAñoSwitch" />
         <item itemvalue="Application.SentenciaSwitch" />
         <item itemvalue="Application.EstacionDelAño" />
-        <item itemvalue="Application.MayorDosNumeros" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +252,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754002624595</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="SistemaCalificaciones">
+      <option name="closed" value="true" />
+      <created>1754002950326</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1754002950326</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
