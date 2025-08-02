@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6cfcc55-0ce2-484c-acd7-750bf83e4dfb" name="Changes" comment="SistemaCalificaciones">
-      <change afterPath="$PROJECT_DIR$/src/SistemaEnvios.java" afterDir="false" />
+    <list default="true" id="b6cfcc55-0ce2-484c-acd7-750bf83e4dfb" name="Changes" comment="SistemaEnvios">
+      <change afterPath="$PROJECT_DIR$/src/SistemaAutenticacion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,35 +49,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.EstacionDelAño.executor": "Run",
-    "Application.EstacionDelAñoSwitch.executor": "Run",
-    "Application.MayorDosNumeros.executor": "Run",
-    "Application.OperadorTernario.executor": "Run",
-    "Application.SaludYFitness.executor": "Run",
-    "Application.SentencaElseIf.executor": "Run",
-    "Application.SentenciaSwitch.executor": "Run",
-    "Application.SistemaCalificaciones.executor": "Run",
-    "Application.SistemaEnvios.executor": "Run",
-    "Application.SistemaReservaHotel.executor": "Run",
-    "Application.SistemaTiendaEnLinea.executor": "Run",
-    "Application.ValorPositivo.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Cursos/Java/06_SentenciasDeDecision",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.EstacionDelAño.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstacionDelAñoSwitch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MayorDosNumeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperadorTernario.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SaludYFitness.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SentencaElseIf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SentenciaSwitch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SistemaCalificaciones.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SistemaEnvios.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SistemaReservaHotel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SistemaTiendaEnLinea.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValorPositivo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Cursos/Java/06_SentenciasDeDecision&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.SistemaEnvios">
-    <configuration name="EstacionDelAño" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstacionDelAño" />
-      <module name="06_SententciasdeDecision" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.SistemaAutenticacion">
     <configuration name="EstacionDelAñoSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EstacionDelAñoSwitch" />
       <module name="06_SententciasdeDecision" />
@@ -87,6 +80,13 @@
     </configuration>
     <configuration name="SentenciaSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SentenciaSwitch" />
+      <module name="06_SententciasdeDecision" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SistemaAutenticacion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SistemaAutenticacion" />
       <module name="06_SententciasdeDecision" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SistemaAutenticacion" />
         <item itemvalue="Application.SistemaEnvios" />
         <item itemvalue="Application.SistemaCalificaciones" />
         <item itemvalue="Application.EstacionDelAñoSwitch" />
         <item itemvalue="Application.SentenciaSwitch" />
-        <item itemvalue="Application.EstacionDelAño" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +260,23 @@
       <option name="project" value="LOCAL" />
       <updated>1754002950326</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="SistemaEnvios">
+      <option name="closed" value="true" />
+      <created>1754061272201</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1754061272201</updated>
+    </task>
+    <task id="LOCAL-00019" summary="SistemaEnvios">
+      <option name="closed" value="true" />
+      <created>1754061601008</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1754061601008</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -281,7 +297,8 @@
     <MESSAGE value="EstacionDelAñoSwitch" />
     <MESSAGE value="EstacionDelAñoSwitchSwitch" />
     <MESSAGE value="SistemaCalificaciones" />
-    <option name="LAST_COMMIT_MESSAGE" value="SistemaCalificaciones" />
+    <MESSAGE value="SistemaEnvios" />
+    <option name="LAST_COMMIT_MESSAGE" value="SistemaEnvios" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
